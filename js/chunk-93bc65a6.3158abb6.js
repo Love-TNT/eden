@@ -509,7 +509,7 @@
 						staticClass: "iptBox"
 					}, [s("div", {
 						staticClass: "iptTitle"
-					}, [t._v("TNT")]), s(
+					}, [t._v("伊甸园游戏")]), s(
 						"input", {
 							directives: [{
 								name: "model",
