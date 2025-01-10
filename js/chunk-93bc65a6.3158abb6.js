@@ -588,7 +588,7 @@
 					}, [t._v("激活成功！")]), s("div", {
 						staticClass: "errorTip"
 					}, [t._v(
-						"TNT"
+						"欢迎使用"
 						)]), s("button", {
 						staticClass: "iptBtn",
 						attrs: {
